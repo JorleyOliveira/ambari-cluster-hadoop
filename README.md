@@ -144,3 +144,4 @@ dataserver03
 rpm -Uvh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
 rpm -e --nodeps mysql-libs
 
+OBS. O tutorial será organizado...
